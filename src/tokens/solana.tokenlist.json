@@ -1,6 +1,6 @@
 {
-  "chainId": 101, /* 101 para Mainnet, 102 para Testnet */
-  "address": "6ghnjNdd4YaoystEMx6zxqs3x7K3NSQWg58M4h9hqtbt", /* Endereço do token */
+  "chainId": 101, 
+  "address": "6ghnjNdd4YaoystEMx6zxqs3x7K3NSQWg58M4h9hqtbt", 
   "symbol": "BULLAI",
   "name": "Bull AI",
   "decimals": 9,
